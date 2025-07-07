@@ -22,7 +22,7 @@ Open folder inside terminal `cd CryptoCSVgen` or `cd CryptoCSVgen-main` if you d
 Run these commands in your terminal:  
 
 `sudo apt update -y && sudo apt upgrade -y`
-`sudo apt install python3.10-venv python3.10-tk -y`
+`sudo apt install python3-venv python3-tk -y`
 `python3 -m venv cryptocsv`
 `source cryptocsv/bin/activate`
 `pip install -r requirements.txt`
@@ -30,7 +30,7 @@ Run these commands in your terminal:
 
 Alternatively, run everything in one command inside the project folder:  
 
-`sudo apt update -y && sudo apt upgrade -y && sudo apt install python3.10-venv python3.10-tk -y && python3 -m venv cryptocsv && source cryptocsv/bin/activate && pip install -r requirements.txt && python3 crypto_collector.py` 
+`sudo apt update -y && sudo apt upgrade -y && sudo apt install python3-venv python3-tk -y && python3 -m venv cryptocsv && source cryptocsv/bin/activate && pip install -r requirements.txt && python3 crypto_collector.py` 
 
 If you already have python venv & tk installed
 
