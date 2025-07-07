@@ -14,7 +14,6 @@ Features
 ### Requirements
 Python 3.8 or higher
 Linux (WSL or VM works fine). Windows and macOS support untested.
-Note: tkinter may not be installed by default on WSL. Install it if missing.
 
 ### Installation & Usage
 
