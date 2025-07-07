@@ -5,11 +5,11 @@ Python app to download historical cryptocurrency data from Yahoo Finance with a 
 
 Features
 
-Search and select crypto tickers
-Choose time intervals (1m, 5m, 1h, etc.)
-Select preset or custom date ranges
-Export data to CSV
-View logs and test connection
+*Search and select crypto tickers
+*Choose time intervals (1m, 5m, 1h, etc.)
+*Select preset or custom date ranges
+*Export data to CSV
+*View logs and test connection
 
 ### Requirements
 Python 3.8 or higher
@@ -20,11 +20,11 @@ Note: tkinter may not be installed by default on WSL. Install it if missing.
 
 Run these commands in your terminal:
 
-sudo apt install python3.10-venv python3.10-tk -y # if needed
-python3 -m venv cryptocsv
-source cryptocsv/bin/activate
-pip install -r requirements.txt
-python3 crypto_collector.py
+`sudo apt install python3.10-venv python3.10-tk -y # if needed`
+`python3 -m venv cryptocsv`
+`source cryptocsv/bin/activate`
+`pip install -r requirements.txt`
+`python3 crypto_collector.py`
 
 Alternatively, run everything in one command inside the project folder:
 
