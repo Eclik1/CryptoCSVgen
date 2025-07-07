@@ -19,6 +19,8 @@ It’s useful for anyone who wants to quickly pull precise crypto market data wi
 
 **Note:** `tkinter` comes pre-installed with most Python distributions on Windows but this does not mean it will be in WSL by default. If not, reinstall Python with the commands seen below.
 
+### Install/Run
+
 1. Open this folder in WSL/Linux VM whatever you have.
 2. Create python venv using `python3 -m venv cryptocsv` *if not already installed python3.10-venv library will be needed*
 3. Open that python venv using `source cryptocsv/bin/activate`
