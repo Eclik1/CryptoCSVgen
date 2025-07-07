@@ -19,7 +19,7 @@ Note: tkinter may not be installed by default on WSL. Install it if missing.
 ### Installation & Usage
 
 Extract downloaded zip to folder
-Open folder inside terminal `cd CryptoCSVgen`
+Open folder inside terminal `cd CryptoCSVgen or CryptoCSVgen-main if you downloaded the whole branch`
 Run these commands in your terminal:
 
 `sudo apt install python3.10-venv python3.10-tk -y`
