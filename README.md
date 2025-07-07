@@ -18,9 +18,9 @@ Note: tkinter may not be installed by default on WSL. Install it if missing.
 
 ### Installation & Usage
 
-Extract downloaded zip to folder
-Open folder inside terminal `cd CryptoCSVgen` or `cd CryptoCSVgen-main` if you downloaded the whole branch
-Run these commands in your terminal:
+Extract downloaded zip to folder  
+Open folder inside terminal `cd CryptoCSVgen` or `cd CryptoCSVgen-main` if you downloaded the whole branch  
+Run these commands in your terminal:  
 
 `sudo apt install python3.10-venv python3.10-tk -y`
 `python3 -m venv cryptocsv`
@@ -28,14 +28,14 @@ Run these commands in your terminal:
 `pip install -r requirements.txt`
 `python3 crypto_collector.py`
 
-Alternatively, run everything in one command inside the project folder:
+Alternatively, run everything in one command inside the project folder:  
 
-sudo apt install python3.10-venv python3.10-tk -y && python3 -m venv cryptocsv && source cryptocsv/bin/activate && pip install -r requirements.txt && python3 crypto_collector.py
+sudo apt install python3.10-venv python3.10-tk -y && python3 -m venv cryptocsv && source cryptocsv/bin/activate && pip install -r requirements.txt && python3 crypto_collector.py  
 
-Notes
+Notes  
 
-Intraday data (1m, 5m) only available for last ~30 days via Yahoo Finance (these timeframes are still very buggy and need work)
+Intraday data (1m, 5m) only available for last ~30 days via Yahoo Finance (these timeframes are still very buggy and need work)  
 
-CSV files are saved to the location you specify
+CSV files are saved to the location you specify  
 
-Use responsibly. This is a beta version.
+Use responsibly. This is a beta version.  
