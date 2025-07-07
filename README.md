@@ -27,11 +27,11 @@ It’s useful for anyone who wants to quickly pull precise crypto market data wi
 
 OR run these commands inside cryptocsvgen directory
 
-`sudo apt install python3.10-venv python3.10-tk -y
-python3 -m venv cryptocsv
-source cryptocsv/bin/activate
-pip install -r requirements.txt
-python3 crypto_collector.py`
+`sudo apt install python3.10-venv python3.10-tk -y`
+`python3 -m venv cryptocsv`
+`source cryptocsv/bin/activate`
+`pip install -r requirements.txt`
+`python3 crypto_collector.py`
 
 
 ## Notes
