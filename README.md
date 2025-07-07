@@ -5,11 +5,11 @@ Python app to download historical cryptocurrency data from Yahoo Finance with a 
 
 Features
 
-*Search and select crypto tickers
-*Choose time intervals (1m, 5m, 1h, etc.)
-*Select preset or custom date ranges
-*Export data to CSV
-*View logs and test connection
+-Search and select crypto tickers
+-Choose time intervals (1m, 5m, 1h, etc.)
+-Select preset or custom date ranges
+-Export data to CSV
+-View logs and test connection
 
 ### Requirements
 Python 3.8 or higher
