@@ -34,7 +34,7 @@ sudo apt install python3.10-venv python3.10-tk -y && python3 -m venv cryptocsv &
 
 Notes
 
-Intraday data (1m, 5m) only available for last ~60 days via Yahoo Finance
+Intraday data (1m, 5m) only available for last ~30 days via Yahoo Finance (these timeframes are still very buggy and need work)
 
 CSV files are saved to the location you specify
 
